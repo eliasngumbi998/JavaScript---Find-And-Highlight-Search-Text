@@ -1,0 +1,2 @@
+# JavaScript---Find-And-Highlight-Search-Text
+In this tutorial we will create a Find And Highlight Search Text Using JavaScript. This code will highlight the important string base on the inputted keyword in the text box. The code use jQuery plugin .on('keyup') function to trigger a certain method that will highlight a string and mark a background color on it using RegExp() by adding pattern and attributes.
